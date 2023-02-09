@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "nomecategoria": "Cat1",
+        "nomesubcategoria": "subCat1",
+        "quantidade": 20,
+        "descricao": "qualquer coisa",
+        "colorSub":"#0081A7",
+        "colorCat":"#00995D",
+        "colorBody": "#F0EBD8"
+
+    },
+    {
+        "id": 2,
+        "nomecategoria": "Cat2",
+        "nomesubcategoria": "subCat2",
+        "quantidade": 5,
+        "descricao": "qualquer coisa",
+        "colorSub":"#0081A7",
+        "colorCat":"#00995D",
+        "colorBody": "#F0EBD8"
+    },
+    {
+        "id": 3,
+        "nomecategoria": "Cat3",
+        "nomesubcategoria": "subCat3",
+        "quantidade": 6,
+        "descricao": "qualquer coisa",
+        "colorSub":"#0081A7",
+        "colorCat":"#00995D",
+        "colorBody": "#F0EBD8"
+    },
+    {
+        "id": 4,
+        "nomecategoria": "Cat4",
+        "nomesubcategoria": "subCat4",
+        "quantidade": 2,
+        "descricao": "qualquer coisa",
+        "colorSub":"#0081A7",
+        "colorCat":"#00995D",
+        "colorBody": "#F0EBD8"
+    },
+    {
+        "id": 5,
+        "nomecategoria": "Cat5",
+        "nomesubcategoria": "subCat5",
+        "quantidade": 3,
+        "descricao": "qualquer coisa",
+        "colorSub":"#0081A7",
+        "colorCat":"#00995D",
+        "colorBody": "#F0EBD8"
+    },
+    {
+        "id": 6,
+        "nomecategoria": "Cat6",
+        "nomesubcategoria": "subCat6",
+        "quantidade": 1,
+        "descricao": "qualquer coisa",
+        "colorSub":"#0081A7",
+        "colorCat":"#00995D",
+        "colorBody": "#F0EBD8"
+    },
+    {
+        "id": 7,
+        "nomecategoria": "Cat7",
+        "nomesubcategoria": "subCat7",
+        "quantidade": 0,
+        "descricao": "qualquer coisa",
+        "colorSub":"#0081A7",
+        "colorCat":"#00995D",
+        "colorBody": "#F0EBD8"
+    }
+]
