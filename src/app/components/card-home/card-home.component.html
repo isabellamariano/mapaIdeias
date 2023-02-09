@@ -1,0 +1,11 @@
+<div class="wrapper">
+    <h1>Bla bla bla ideias</h1>
+    <ul class="flex cards">
+      <li *ngFor="let item of cate">
+        <h4 [style.background]="item.colorSub">{{ item.nomesubcategoria }}</h4>
+        <h2 [style.background]="item.colorCat">{{ item.nomecategoria }}</h2>
+        <p [style.background]="item.colorBody"><b>{{item.quantidade}}</b><br>
+          <span>{{item.descricao}}</span></p>
+      </li>
+    </ul>
+</div>
